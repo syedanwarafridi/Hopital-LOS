@@ -1,0 +1,21 @@
+feature,importance
+num__admit_month,0.15435842510248915
+num__admit_hour,0.11649078460858237
+num__age_at_admit,0.11102244898283553
+num__admit_dayofweek,0.06714426658631875
+cat__admission_type_EU OBSERVATION,0.0628779724663696
+cat__admission_type_URGENT,0.03160949254273792
+cat__marital_status_MARRIED,0.026573319079921554
+cat__marital_status_SINGLE,0.025493210038724744
+cat__age_band_60-69,0.02492843780814018
+cat__admission_location_TRANSFER FROM HOSPITAL,0.024274070507024948
+cat__gender_F,0.022178634138949303
+cat__admission_type_OBSERVATION ADMIT,0.021552636410356315
+cat__admission_type_EW EMER.,0.02144267402409607
+num__is_weekend_admit,0.02032117541310341
+cat__admission_location_EMERGENCY ROOM,0.019995827603005892
+cat__insurance_Other,0.019071513748198463
+cat__gender_M,0.018734207559196022
+cat__insurance_Medicare,0.018352485625490224
+cat__marital_status_WIDOWED,0.01695415839424697
+cat__race_WHITE,0.016873141028892015

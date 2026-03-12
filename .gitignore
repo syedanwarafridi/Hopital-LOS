@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -33,3 +34,7 @@ outputs/models/*
 Thumbs.db
 .vscode/
 .idea/
+=======
+.env
+venv/
+>>>>>>> c1afdef (Adding missing data)

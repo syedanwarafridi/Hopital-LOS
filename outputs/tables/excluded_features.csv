@@ -1,0 +1,9 @@
+column,reason
+admittime,Raw timestamp; replaced by engineered time features.
+anchor_year,De-identification anchor metadata; not clinically actionable.
+discharge_location,Determined near/after discharge; leakage for admission-time prediction.
+dischtime,Not known at admission; direct outcome leakage.
+hadm_id,Admission identifier; should never be used as predictive signal.
+hospital_expire_flag,Outcome-adjacent endpoint; excluded from default model inputs.
+los_days,Target-defining variable; direct leakage.
+subject_id,Identifier column; can cause memorization and is not clinically meaningful.

@@ -1,0 +1,3 @@
+label_mode,definition,threshold_value,positive_count,prevalence,business_clarity,interpretability_note
+gt_7d,LOS > 7 days,7.0,91,0.33090909090909093,High,Simple fixed threshold for operations
+gte_p90,LOS >= p90,14.502638888888885,28,0.10181818181818182,Medium,Distribution-relative threshold
